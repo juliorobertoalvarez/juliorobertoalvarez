@@ -2,13 +2,13 @@
 
 # 👋 Hello! I'm Julio Alvarez
 
-A seasoned Customer Service and IT Operations professional with a strong background in cryptocurrency support, blockchain transactions, and IT management. With six years of dedicated experience, I focus on providing efficient, client-centered solutions that enhance customer satisfaction and build lasting relationships. I am passionate about integrating technology and customer service to drive success in fast-paced, innovative environments.
+A Customer Service and IT Operations Manager with a strong background in cryptocurrency support, blockchain transactions, and IT management. With 6 years of dedicated experience, I focus on providing efficient, client-centered solutions that enhance customer satisfaction and build lasting relationships. I am passionate about integrating technology and customer service to drive success in fast-paced, innovative environments.
 
 ---
 
 ### 🌟 Professional Summary
 
-Experienced in managing customer support operations, I specialize in the cryptocurrency sector, helping clients navigate blockchain transactions, wallet management, and exchange issues. I excel at conflict resolution, delivering tailored solutions, and implementing secure support protocols. My goal is to bring my technical and client-focused expertise to companies that value innovation and exceptional service.
+Experienced in managing customer support operations, My goal is to bring my technical and client-focused expertise to companies that value innovation and exceptional service. I specialize in the cryptocurrency sector, helping clients navigate blockchain transactions, wallet management, and exchange issues. I excel at conflict resolution, delivering tailored solutions, and implementing secure support protocols.
 
 ---
 
@@ -103,6 +103,8 @@ Experienced in managing customer support operations, I specialize in the cryptoc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorobertoalvarez&layout=compact&theme=radical)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=juliorobertoalvarez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
