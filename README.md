@@ -20,7 +20,6 @@ Experienced in managing customer support operations, I specialize in the cryptoc
 - **Programming & Frameworks:** Python, Solidity (Ethereum), Nuxt.js, TailwindCSS
 - **Analytics:** Customer data analysis, reporting, KPI tracking
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliorobertoalvarez&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorobertoalvarez&layout=compact&theme=radical)
 
 ---
