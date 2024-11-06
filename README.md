@@ -20,7 +20,11 @@ Experienced in managing customer support operations, I specialize in the cryptoc
 - **Programming & Frameworks:** Python, Solidity (Ethereum), Nuxt.js, TailwindCSS
 - **Analytics:** Customer data analysis, reporting, KPI tracking
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorobertoalvarez&layout=compact&theme=radical)
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliorobertoalvarez)
+[![Website](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://jrobertalva.com)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliorobertoalvarez) [![Website](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://jrobertalva.com)
@@ -97,6 +101,9 @@ Experienced in managing customer support operations, I specialize in the cryptoc
 ### 📈 My GitHub Contribution Map
 ![Contribution Map](https://github-readme-streak-stats.herokuapp.com/?user=juliorobertoalvarez&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliorobertoalvarez&layout=compact&theme=radical)
+
+
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
@@ -107,12 +114,6 @@ Experienced in managing customer support operations, I specialize in the cryptoc
 - Advanced Solidity Patterns
 - Machine Learning for Financial Data
 - Blockchain Analytics
-
----
-
-### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliorobertoalvarez)
-[![Website](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://jrobertalva.com)
 
 ---
 
