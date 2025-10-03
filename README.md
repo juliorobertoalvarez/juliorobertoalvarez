@@ -4,12 +4,7 @@
 
 **AI Technical Support Manager — Blockchain Technical Leader — DeFi Support Specialist**  
 📍 Guatemala City, Guatemala | 🌎 Remote Work Available  
-📧 engjrobertalva@gmail.com | 🌐 [Portfolio](https://jrobertalva.com) | 💼 [LinkedIn](https://www.linkedin.com/in/juliorobertoalvarez) | 🖥️ [GitHub](https://github.com/juliorobertoalvarez)  
-
----
-
-### 📄 Curriculum Vitae
-📥 [Download My CV](./Julio_Roberto_Alvarez_CV.pdf)  
+📧 engjrobertalva@gmail.com | 🌐 [Portfolio](https://jrobertalva.com) | 💼 [LinkedIn](https://www.linkedin.com/in/juliorobertoalvarez) | 🖥️ [GitHub](https://github.com/juliorobertoalvarez) | 📥 [Download My CV](./Julio_Roberto_Alvarez_CV.pdf)  
 
 ---
 
